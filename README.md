@@ -9,4 +9,4 @@ Welcome to our group project
     The number of people that work on Sundays
 
 
-The outputs of each question are separated into single files. 
+The outputs of each question are separated into log files. 

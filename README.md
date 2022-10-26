@@ -2,7 +2,7 @@
 
 Welcome to our group project
 
-    Shows you how many times each email address was used
+    Shows you how many times a specific email address was used when commiting a message to GitHub
     The number of commits made each year
     The number of times the words "bug" and "fix" were used
     The number of commits that work overnight and during the day
